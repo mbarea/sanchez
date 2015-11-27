@@ -17,6 +17,7 @@ public class ExamenM8 {
     public static void main(String[] args) {
         System.out.println("Primer commit de l'examen");
         System.out.println("Hasta aquí 2.5");
+        System.out.println("Dame mi 5");
     }
     
 }
